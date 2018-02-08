@@ -44,7 +44,6 @@ def life(joblist,x):
 	function.healthyCheck(x)
 	function.hunger(x)
 	function.cashCheck(joblist,x)
-#	print x.hunger
 	pass
 
 #背景时间记录类
